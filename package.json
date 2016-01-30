@@ -1,0 +1,16 @@
+{
+  "name": "bruteforce-limiter-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emre tekince",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "ioredis": "^1.14.0"
+  }
+}
